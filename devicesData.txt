@@ -1,0 +1,10 @@
+Living - Working Room; 500
+Dining - Movie Room; 500
+Kitchen; 2000
+Telemetry; 400
+Bedrooms; 150
+Upstairs Washroom; 1000
+Downstairs Washroom; 1000
+Upstairs Hall; 100
+Laboratory; 800
+Sea Can; 400
